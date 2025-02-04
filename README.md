@@ -109,15 +109,15 @@ Analyse de Découverte d'Hôtes
 
 ### 🔎 Options d'Analyse Spécifiques
 
-*Analyse de Connexion TCP (-sT)
+* Analyse de Connexion TCP (-sT)
 
-*Analyse UDP (-sU)
+* Analyse UDP (-sU)
 
-*Analyse TCP FIN (-sF)
+* Analyse TCP FIN (-sF)
 
-*Analyse de Découverte d'Hôtes (-sn)
+* Analyse de Découverte d'Hôtes (-sn)
 
-*Options de Synchronisation (-T0 à -T5)
+* Options de Synchronisation (-T0 à -T5)
 
 ### 🛠️ Commandes Courantes
 
@@ -189,31 +189,31 @@ Export Format Grepable
 
 ### ⚖️ Commutateurs Clés
 
-Syn Scan: **-sS**
+* Syn Scan: **-sS**
 
-Analyse UDP: **-sU**
+* Analyse UDP: **-sU**
 
-Détection du Système d'Exploitation: **-O**
+* Détection du Système d'Exploitation: **-O**
 
-Détection de la Version des Services: **-sV**
+* Détection de la Version des Services: **-sV**
 
-Verbosité: **-v, -vV**
+* Verbosité: **-v, -vV**
 
-Export des Résultats dans Trois Formats: **-oA**
+* Export des Résultats dans Trois Formats: **-oA**
 
-Scan Mode Agressif: **-A**
+* Scan Mode Agressif: **-A**
 
-Définition du Modèle de Timing à 5: **-T5**
+* Définition du Modèle de Timing à 5: **-T5**
 
-Scan d'un Port Spécifique: **-p 80**
+* Scan d'un Port Spécifique: **-p 80**
 
-Scan d'une Plage de Ports: **-p 100-1500**
+* Scan d'une Plage de Ports: **-p 100-1500**
 
-Scan de Tous les Ports: **-p-**
+* Scan de Tous les Ports: **-p-**
 
-Activation d'un Script: **--script**
+* Activation d'un Script: **--script**
 
-Activation des Scripts de la Catégorie "vuln": **--script=vuln**
+* Activation des Scripts de la Catégorie "vuln": **--script=vuln**
 
 
 
@@ -233,7 +233,7 @@ Pour plus d'informations, référez-vous à la [documentation officielle](https:
 * Des analyses de sécurité dans le cadre de missions légales avec consentement ;
 * Des tests en laboratoire sur des environnements contrôlés.
 
-> Toute utilisation non autorisée pour analyser ou compromettre des systèmes est illégale et peut entraîner des sanctions civiles et pénales. L'auteur de reférence décline toute responsabilité pour tout usage inapproprié de cet Cheat Sheet.
+> Toute utilisation non autorisée pour analyser ou compromettre des systèmes est illégale et peut entraîner des sanctions civiles et pénales. Je décline toute responsabilité pour tout usage inapproprié de cet Cheat Sheet.
 >
 
 Auteur : [ ATTEIB.H (LinkedIn)](https://www.linkedin.com/in/atteib-h-birackinit-83a657221/).
