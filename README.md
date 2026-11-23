@@ -236,5 +236,3 @@ Pour plus d'informations, référez-vous à la [documentation officielle](https:
 
 > Toute utilisation non autorisée pour analyser ou compromettre des systèmes est illégale et peut entraîner des sanctions civiles et pénales. Je décline toute responsabilité pour tout usage inapproprié de cet Cheat Sheet.
 >
-
-Auteur : [ ATTEIB.H (LinkedIn)](https://www.linkedin.com/in/atteib-h-birackinit-83a657221/).
